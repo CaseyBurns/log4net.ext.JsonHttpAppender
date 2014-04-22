@@ -1,2 +1,2 @@
-log4net.ext.JsonHttmlAppender
+log4net.ext.JsonHtmlAppender
 =============================
